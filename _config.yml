@@ -224,10 +224,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  # portfolio:
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
   # talks:
