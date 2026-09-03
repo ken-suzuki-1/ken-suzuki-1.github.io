@@ -6,7 +6,7 @@ permalink: /research/
 ## Publications
 [2026] ["Tele-Triage, Care Substitution, and Health: Evidence from Quasi-Randomly Assigned Nurses"](https://www.sciencedirect.com/science/article/pii/S0167629626000470) (with Liam Rose, Linda Diem Tran, and Anita Vashi)\
 *Journal of Health Economics*, Volume 108, July 2026, 103149\
-[WP (submitted version)](https://ksuzuki4.github.io/Ken_Suzuki_JMP.pdf)
+[WP (submitted version)](/files/pdf/Ken_Suzuki_JMP.pdf)
 
 [2019] ["Effective or Self-Selective: Random Assignment Demonstrates Short-Term Study Abroad Effectively Encourages Further Study Abroad"](https://doi.org/10.1177/1028315318803713) (with Maki Kato)\
 *Journal of Studies in International Education*, 23(4), 411-428.
