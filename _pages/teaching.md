@@ -3,6 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+## Yokohama National University
+
+
 ## UC Santa Cruz (Teaching Assistant)
 Applied Econometric Analysis I (Econ 216): Fall 2022
 
