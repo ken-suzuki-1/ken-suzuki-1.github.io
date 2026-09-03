@@ -1,8 +1,9 @@
 ---
-title: "Teaching experience (Teching assistant at UC Santa Cruz)"
-collection: teaching
+title: "Teaching"
+permalink: /teaching/
 ---
 
+## UC Santa Cruz (Teaching Assistant)
 Applied Econometric Analysis I (Econ 216): Fall 2022
 
 Applied Econometric Analysis II (Econ 217): Winter 2024
