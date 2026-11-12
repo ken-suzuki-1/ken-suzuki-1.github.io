@@ -4,7 +4,7 @@ toc: false
 ---
 
 ## Yokohama National University
-
+[Introduction to R](https://ken-suzuki-1.github.io/Introduction-to-R/):Fall 2026
 
 ## UC Santa Cruz (Teaching Assistant)
 Applied Econometric Analysis I (Econ 216): Fall 2022
