@@ -14,7 +14,7 @@ toc: false
 
 ::: {.column width="80%"}
 
-Ken Suzuki is a lecturer at Yokohama National University.  Before joining YNU, He was a postdoctoral scholar at Stanford University. He received his PhD in Economics from the University of California, Santa Cruz in June 2024.
+Ken Suzuki is a lecturer at Yokohama National University.  Before joining YNU, he was a postdoctoral scholar at Stanford University. He received his PhD in Economics from the University of California, Santa Cruz in June 2024.
 
 You can download my CV [here](/files/pdf/Ken_Suzuki_CV.pdf) 
 
